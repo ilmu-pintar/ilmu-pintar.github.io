@@ -1,2 +1,2 @@
 # ilmu-pintar.github.io
-lalalalala
+biologi.html
